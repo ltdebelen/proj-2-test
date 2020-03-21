@@ -1,0 +1,26 @@
+{
+  "name": "proj-2-test",
+  "version": "1.0.0",
+  "description": "Project 2 mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint",
+    "start": "node server.js",
+    "lint": "eslint --quiet .",
+    "fix": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltdebelen/proj-2-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltdebelen/proj-2-test/issues"
+  },
+  "homepage": "https://github.com/ltdebelen/proj-2-test#readme",
+  "dependencies": {
+    "eslint": "^6.8.0"
+  }
+}
